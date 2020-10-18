@@ -1,0 +1,2789 @@
+{
+    "timeline":
+    {
+        "headline":"A/B Knowledge Base (ABKB) ",
+        "type":"default",
+		"text":" ",
+		"tag":"harini", 
+ 	 	 	 	"startDate":"2015,4,1",
+		"endDate":"2015,5,30",
+        "date": [
+            {
+				"tag":"APIs",
+ 	 	 	 	"startDate":"2014,3,20",
+				"endDate":"2014,3,20",
+                "headline":"CRO-102",
+                "text":"<p>This is a user story to validate the POC API<br></br><a href='http://jira.cingular.net/jira/secure/attachment/956233/control_marquee.jpg' download><input type='button' class='btn btn-sm btn-danger' value='Find the Result'></input></a></p>",
+                "asset":
+                {
+                    "media":"http://jira.cingular.net/jira/secure/attachment/956233/control_marquee.jpg",
+                    "credit":"<b>Control</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span></p>"
+                }
+            },
+            {
+				"tag":"APIs",
+ 	 	 	 	"startDate":"2014,3,21",
+				"endDate":"2014,3,21",
+                "headline":"CRO-118",
+                "text":"<p>This is a user story to pull the data from JIRA Server<br></br><a href='http://jira.cingular.net/jira/secure/attachment/961886/diagram.png' download><input type='button' class='btn btn-sm btn-danger' value='Find the Result'></input></a></p>",
+                "asset":
+                {
+                    "media":"http://jira.cingular.net/jira/secure/attachment/961886/diagram.png",
+                    "credit":"<b>Control</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span></p>"
+                }
+            },
+            {
+				"tag":"APIs",
+ 	 	 	 	"startDate":"2014,3,22",
+				"endDate":"2014,3,22",
+                "headline":"CRO-119",
+                "text":"<p>This is a user story to pull the data from Analytics Server<br></br><a href='http://jira.cingular.net/jira/secure/attachment/956234/variant_marquee.jpg' download><input type='button' class='btn btn-sm btn-danger' value='Find the Result'></input></a></p>",
+                "asset":
+                {
+                    "media":"http://jira.cingular.net/jira/secure/attachment/956234/variant_marquee.jpg",
+                    "credit":"<b>Control</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span></p>"
+                }
+            },
+            {
+				"tag":"list page, smartphones",
+ 	 	 	 	"startDate":"2014,3,23",
+				"endDate":"2014,3,23",
+                "headline":"Grid vs List",
+                "text":"<p>Does the view type have an impact on click thrus and conversions? <br></br><a href='timelinejs/images/grid.JPG' download><input type='button' class='btn btn-sm btn-danger' value='Find the Result'></input></a></p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/grid.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+				"tag":"home page, bellyband",
+ 	 	 	 	"startDate":"2014,4,1",
+				"endDate":"2014,4,1",
+                "headline":"Bellyband Orange vs Plain",
+                "text":"<p>Different icons in the belly band may increase engagement and conversions <br></br><a href='timelinejs/images/grid.JPG' download><input type='button' class='btn btn-sm btn-danger' value='Find the Result'></input></a></p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/bb_plainvsorange.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+				"tag":"bellyband, home page",
+ 	 	 	 	"startDate":"2014,4,8",
+				"endDate":"2014,4,8",
+                "headline":"Bellyband Devices",
+                "text":"<p>Placing a thumbnail of some of our most popular devices and accessory within the homepage belly band increase engagement and conversions <br></br><a href='timelinejs/images/grid.JPG' download><input type='button' class='btn btn-sm btn-danger' value='Find the Result'></input></a></p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/bb_devices.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+				"tag":"list page, filters",
+ 	 	 	 	"startDate":"2014,4,10",
+				"endDate":"2014,4,10",
+                "headline":"Manufacturing Filter",
+                "text":"<p>Moving the Filter by Manufacturer to the top of the filters list will increase conversion <br></br><a href='timelinejs/images/grid.JPG' download><input type='button' class='btn btn-sm btn-danger' value='Find the Result'></input></a></p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/manu_filter.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"price block, device details, smartphones", 
+ 	 	 	 	"startDate":"2014,4,15",
+				"endDate":"2014,4,15",
+                "headline":"Price Block",
+                "text":"<p>Showing a price comparison tool for term selection will increase the device details page conversion rate. <br></br><a href='timelinejs/images/grid.JPG' download><input type='button' class='btn btn-sm btn-danger' value='Find the Result'></input></a></p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/priceBlock.JPG",
+                    "credit":"<b>wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"device details",
+ 	 	 	 	"startDate":"2014,4,15",
+				"endDate":"2014,4,15",
+                "headline":"Product Description",
+                "text":"<p>Adding a brief product description above the image but below the product title on the device details pages will increase conversion and SEO ranking <br></br><a href='timelinejs/images/grid.JPG' download><input type='button' class='btn btn-sm btn-danger' value='Find the Result'></input></a></p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/productDes.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"home page, login",
+ 	 	 	 	"startDate":"2014,4,15",
+				"endDate":"2014,4,15",
+                "headline":"Quicklinks",
+                "text":"<p>Adding Quicklinks to the homepage will increase engagement and conversion <br></br><a href='timelinejs/images/grid.JPG' download><input type='button' class='btn btn-sm btn-danger' value='Find the Result'></input></a></p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/quicklinks.JPG",
+                    "credit":"<b>Wireless Homepage</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"esupport, support", 
+ 	 	 	 	"startDate":"2014,4,15",
+				"endDate":"2014,4,15",
+                "headline":"KB Articles",
+                "text":"<p>Changing the positions of the Feedback and Related Solutions sections in the KB articles will not decrease clicks to the related solutions links. <br></br><a href='timelinejs/images/grid.JPG' download><input type='button' class='btn btn-sm btn-danger' value='Find the Result'></input></a></p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/kbarticles.JPG",
+                    "credit":"<b>eSupport</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"list page, smartphones", 
+ 	 	 	 	"startDate":"2014,4,17",
+				"endDate":"2014,4,17",
+                "headline":"4G LTE Icons",
+                "text":"<p>Removing the 4G/4G LTE icons from the device list page tiles will not have a negative impact on conversion. <br></br><a href='timelinejs/images/grid.JPG' download><input type='button' class='btn btn-sm btn-danger' value='Find the Result'></input></a></p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/4g_lte.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"mobileshare, plans page",
+ 	 	 	 	"startDate":"2014,4,24",
+				"endDate":"2014,4,24",
+                "headline":"Mobileshare 10GB Plan",
+                "text":"<p>Moving the 10 GB plan option up on the plans selection page will increase the take rate for the 10 GB plan while not having a negative impact on conversion. <br></br><a href='timelinejs/images/grid.JPG' download><input type='button' class='btn btn-sm btn-danger' value='Find the Result'></input></a></p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/mobile10gb.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"accessories", 
+ 	 	 	 	"startDate":"2014,4,25",
+				"endDate":"2014,4,25",
+                "headline":"Remove No Thanks",
+                "text":"<p> Removing 'No Thanks' from the accessory detail pages price block will not have a negative impact on accessory sales. <br></br><a href='timelinejs/images/grid.JPG' download><input type='button' class='btn btn-sm btn-danger' value='Find the Result'></input></a></p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/nothanks.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"insurance, service list", 
+ 	 	 	 	"startDate":"2014,4,25",
+				"endDate":"2014,4,25",
+                "headline":"MPP MI Order",
+                "text":"<p>Presenting MI first on the services list page will increase net sales of MI to offset $3 MRC from MPP. <br></br><a href='timelinejs/images/grid.JPG' download><input type='button' class='btn btn-sm btn-danger' value='Find the Result'></input></a></p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/mmpmi.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"accessories, accessory list test", 
+ 	 	 	 	"startDate":"2014,4,29",
+				"endDate":"2014,4,29",
+                "headline":"Remove continue button on accessory list",
+                "text":"<p>Hiding the Continue to Next Step button when the cart is empty will not have a negative impact on conversion. <br></br><a href='timelinejs/images/grid.JPG' download><input type='button' class='btn btn-sm btn-danger' value='Find the Result'></input></a></p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/hideconti.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"global nav, home page", 
+ 	 	 	 	"startDate":"2014,5,1",
+				"endDate":"2014,5,1",
+                "headline":"Secondary tray open",
+                "text":"<p>Changing the default state of the global navigation show the secondary tray open will improve conversion. <br></br><a href='timelinejs/images/grid.JPG' download><input type='button' class='btn btn-sm btn-danger' value='Find the Result'></input></a></p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/trayopen.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"home page, login", 
+ 	 	 	 	"startDate":"2014,5,1",
+				"endDate":"2014,5,1",
+                "headline":"Quicklinks Update",
+                "text":"<p>Adding Quicklinks to the homepage will increase engagement and conversion. <br></br><a href='timelinejs/images/grid.JPG' download><input type='button' class='btn btn-sm btn-danger' value='Find the Result'></input></a></p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/quicklinks2.JPG",
+                    "credit":"<b>Wireless Homepage</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"sim", 
+ 	 	 	 	"startDate":"2014,5,5",
+				"endDate":"2014,5,5",
+                "headline":"BYOP SIM straight to cart",
+                "text":"<p>Bypassing the details page and adding the identified SIM straight to the customer’s cart will increase conversion.<br></br><a href='timelinejs/images/grid.JPG' download><input type='button' class='btn btn-sm btn-danger' value='Find the Result'></input></a></p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/sim.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"accessory, accessories, carousel", 
+ 	 	 	 	"startDate":"2014,5,8",
+				"endDate":"2014,5,8",
+                "headline":"Accessory Carousel",
+                "text":"<p>Multivariate test to understand the impact of accessories detail page presentations; 3 variants will be tested. <br></br><a href='timelinejs/images/grid.JPG' download><input type='button' class='btn btn-sm btn-danger' value='Find the Result'></input></a></p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/carousel.JPG",
+                    "credit":"",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"global nav, deals", 
+ 	 	 	 	"startDate":"2014,5,9",
+				"endDate":"2014,5,9",
+                "headline":"Special Offers Deals",
+                "text":"<p>Changing the copy for Special Offers in the global navigation to “Deals” will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/deals.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"mobile, details", 
+ 	 	 	 	"startDate":"2014,5,14",
+				"endDate":"2014,5,14",
+                "headline":"Shopmobile",
+                "text":"<p>Changing the order of the shopwireless menu and adding “Purchase” to the phones category and “Research” to the plans category will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/shopmobile.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"cart, wireless", 
+ 	 	 	 	"startDate":"2014,5,15",
+				"endDate":"2014,5,15",
+                "headline":"Wireless Cart",
+                "text":"<p>Adding a My Wireless Cart icon to Shop Wireless Landers will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/wirelesscart.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"global nav, accessories", 
+ 	 	 	 	"startDate":"2014,5,16",
+				"endDate":"2014,5,16",
+                "headline":"Global Nav Wearables",
+                "text":"<p>Adding catgories for wearables and health and fitness under the accessories and more menu in global nav will increase conversion and engagement.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/wearables.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"plans page, mobileshare", 
+ 	 	 	 	"startDate":"2014,5,19",
+				"endDate":"2014,5,19",
+                "headline":"Mobile Plans",
+                "text":"<p>Adding copy to clarify for users that they must first select a device before they can purchase a plan will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/mobileplans.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"browser, modal", 
+ 	 	 	 	"startDate":"2014,5,19",
+				"endDate":"2014,5,19",
+                "headline":"Browser Looping Modal",
+                "text":"<p>Providing a notification to guide users toward performant browsers will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/browserloop.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"tablets, shop", 
+ 	 	 	 	"startDate":"2014,5,20",
+				"endDate":"2014,5,20",
+                "headline":"Tablets-Gadgets Link Mask",
+                "text":"<p>Adding a link mask to the images on tablets-gadgets.html will increase conversions. Moving the link above the image will increase conversions.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/tabletsgadgets.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"banner, plans, mobileshare", 
+ 	 	 	 	"startDate":"2014,5,20",
+				"endDate":"2014,5,20",
+                "headline":"Hide Banner Wireless Plans",
+                "text":"<p>Hiding the MobileShare banner and related copy on the wireless plans page.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/hidebanner.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"cart summary, redesign", 
+ 	 	 	 	"startDate":"2014,5,20",
+				"endDate":"2014,5,20",
+                "headline":"Cart Summary",
+                "text":"<p>Modifying the layout of the cart summary page will reduce cart abandonment and increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/cartsummary.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"details, price block, smartphones, device details", 
+ 	 	 	 	"startDate":"2014,5,21",
+				"endDate":"2014,5,21",
+                "headline":"PriceBlock update",
+                "text":"<p>Showing a price comparison tool for term selection will increase the device details page conversion rate.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/priceblock2.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"price block, shipping", 
+ 	 	 	 	"startDate":"2014,5,27",
+				"endDate":"2014,5,27",
+                "headline":"Pick up today",
+                "text":"<p>Changing copy on the details page from “ check in-store availability” to “pick-up today” will improve online conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/pickuptoday.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"accessories, list page", 
+ 	 	 	 	"startDate":"2014,5,28",
+				"endDate":"2014,5,28",
+                "headline":"Appcessories",
+                "text":"<p>Changing copy in the accessory flow from “Appcessories” to “Smart Accessories” will improve conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/appcessories.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"device details, details, video", 
+ 	 	 	 	"startDate":"2014,5,28",
+				"endDate":"2014,5,28",
+                "headline":"Zoom",
+                "text":"<p>Utilizing zoom functionality on the accessory detail pages will improve conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/zoom.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"thank you, modal, promo", 
+ 	 	 	 	"startDate":"2014,6,2",
+				"endDate":"2014,6,2",
+                "headline":"Upgrade thank you page modal",
+                "text":"<p>Adding a message to notify upgrade customers that they can add a line to their MobileShare plan and utilize their old (upgraded) device will increase AAL.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/upgrademodal.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"price block, filter, next, device details", 
+ 	 	 	 	"startDate":"2014,6,3",
+				"endDate":"2014,6,3",
+                "headline":"Next 18 Filter",
+                "text":"<p>Defaulting the contract selection filter to Next 18 will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/next18.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"list page, smartphones", 
+ 	 	 	 	"startDate":"2014,6,5",
+				"endDate":"2014,6,5",
+                "headline":"Suppress Infinite Scroll",
+                "text":"<p>Suppressing infinite scroll on the accessories list page will improve conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/infinitescroll.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"session expire, modal, alert", 
+ 	 	 	 	"startDate":"2014,6,5",
+				"endDate":"2014,6,5",
+                "headline":"Session Expiration Alert",
+                "text":"<p>Alerting the customer to session expiration within the browser tab will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/alert.JPG",
+                    "credit":"<b>Whole Site</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"price block, promo, smartphones", 
+ 	 	 	 	"startDate":"2014,6,10",
+				"endDate":"2014,6,10",
+                "headline":"Google Play",
+                "text":"<p>Adding a google play offer on top on priceblock for offer valid phones will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/googleplay.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"contract, next, modal", 
+ 	 	 	 	"startDate":"2014,6,12",
+				"endDate":"2014,6,12",
+                "headline":"ATT Calculator",
+                "text":"<p>Providing a calculator to compare contract types will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/calculator.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"accessory, accessories, cart summary", 
+ 	 	 	 	"startDate":"2014,6,12",
+				"endDate":"2014,6,12",
+                "headline":"Cart Summary FPT Widget",
+                "text":"<p>Adding the FPT widget to the cart summary page will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/ftp.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"next, device details, price block", 
+ 	 	 	 	"startDate":"2014,6,13",
+				"endDate":"2014,6,13",
+                "headline":"Next Calculator",
+                "text":"<p>Providing a calculator to compare contract types will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/nextcalc.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"mobile, mobileshare, plans list, plans", 
+ 	 	 	 	"startDate":"2014,6,18",
+				"endDate":"2014,6,18",
+                "headline":"MobileShare 10 GB plan (Mobile)",
+                "text":"<p>Moving the 10 GB plan option up on the plans selection page will increase the take rate for the 10 GB plan while not having a negative impact on conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/mobile10gb2.JPG",
+                    "credit":"<b>Wireless Mobile</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"home page, wireless", 
+ 	 	 	 	"startDate":"2014,6,19",
+				"endDate":"2014,6,19",
+                "headline":"Homepage Wireless Link",
+                "text":"<p>On att.com homepage changing the link for the wireless tile from the shop lander to the smartphones list page will increase add to cart and conversions.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/wireless.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"service list, insurance", 
+ 	 	 	 	"startDate":"2014,6,20",
+				"endDate":"2014,6,20",
+                "headline":"Services List",
+                "text":"<p>Consolidating and reorganizing the services list page will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/services.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"next, price block, details", 
+ 	 	 	 	"startDate":"2014,6,23",
+				"endDate":"2014,6,23",
+                "headline":"Compare Calculator",
+                "text":"<p>Providing a calculator to compare contract types will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/comparecalc.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"insurance, service list", 
+ 	 	 	 	"startDate":"2014,6,30",
+				"endDate":"2014,6,30",
+                "headline":"Remove Optional Selections",
+                "text":"<p>Removing optional selections will increase the attach rate of MI/MPP.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/optional.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"list page, redesign, smartphones", 
+ 	 	 	 	"startDate":"2014,7,1",
+				"endDate":"2014,7,1",
+                "headline":"Device List Design",
+                "text":"<p>Increasing tile size and eliminating filters on the list page will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/listpage.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"shipping, cart summary", 
+ 	 	 	 	"startDate":"2014,7,1",
+				"endDate":"2014,7,1",
+                "headline":"Shipping Info",
+                "text":"<p>Clearly communicating shipping information to customers will reduce call volumes for shipping delays and increase customer satisfaction.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/shipping.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"", 
+ 	 	 	 	"startDate":"2014,7,7",
+				"endDate":"2014,7,7",
+                "headline":"Accessories list strike-through",
+                "text":"<p>Displaying the regular (strike-through) price and the sale price of accessories on all accessory list pages will improve conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/strike.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"home phone, details", 
+ 	 	 	 	"startDate":"2014,7,8",
+				"endDate":"2014,7,8",
+                "headline":"WHP Remove Right Rail",
+                "text":"<p>Removing the right rail on the Wireless Home Phone page will reduce distraction and increase WHP conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/rightrail.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"mobile, uverse", 
+ 	 	 	 	"startDate":"2014,7,9",
+				"endDate":"2014,7,9",
+                "headline":"Mobile shop u-verse CTA",
+                "text":"<p>Changing the copy on the mobile shop u-verse page CTA will reduce abandonment, reduce click-thru rate for the contact us link, and increase the click-through rate for the main CTA.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/uvcta.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"save cart, cart, wireless, modal", 
+ 	 	 	 	"startDate":"2014,7,14",
+				"endDate":"2014,7,14",
+                "headline":"Auto-Save Cart",
+                "text":"<p>Automatically saving the customers cart before session expiration will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/savecart.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"accessories, accessory, details", 
+ 	 	 	 	"startDate":"2014,7,14",
+				"endDate":"2014,7,14",
+                "headline":"Accessory detail MVT",
+                "text":"<p>Changing the design of the accessory detail page will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/mvtacc.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"global nav, deals", 
+ 	 	 	 	"startDate":"2014,7,17",
+				"endDate":"2014,7,17",
+                "headline":"Special Offers Updated",
+                "text":"<p>Changing the copy for Special Offers in the global navigation to 'Special Deals' or 'Online Deals' will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/sploff.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"price block, device details, details", 
+ 	 	 	 	"startDate":"2014,7,17",
+				"endDate":"2014,7,17",
+                "headline":"(Update) Price Block",
+                "text":"<p>Presenting different contract term layouts in the price block will increase the Next attach rate.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/pb3.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"shop, lander page, wireless, list page", 
+ 	 	 	 	"startDate":"2014,7,22",
+				"endDate":"2014,7,22",
+                "headline":"Shop tile link",
+                "text":"<p>Changing the link for the Shop/Wireless tile from the Shop Lander to the Cellphones list page will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/shoptile.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"service list, insurance", 
+ 	 	 	 	"startDate":"2014,7,22",
+				"endDate":"2014,7,22",
+                "headline":"(Update) Remove Optional Selections",
+                "text":"<p>Removing optional selections will increase the attach rate of MI/MPP.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/mppmi2.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"video, smartphones, device details, details page", 
+ 	 	 	 	"startDate":"2014,7,22",
+				"endDate":"2014,7,22",
+                "headline":"Invodo Interactive",
+                "text":"<p>Adding a device specific interactive video to the device details page will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/invodo.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"list page, smartphones", 
+ 	 	 	 	"startDate":"2014,7,24",
+				"endDate":"2014,7,24",
+                "headline":"(Update) Device List Design",
+                "text":"<p>Increasing tile size and eliminating filters on the list page will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/listpage2.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"video, details page, device details, price block", 
+ 	 	 	 	"startDate":"2014,7,25",
+				"endDate":"2014,7,25",
+                "headline":"Amazon Fire Interactive Video",
+                "text":"<p>Adding an interactive video experience to the device details page will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/amazon.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"home phone", 
+ 	 	 	 	"startDate":"2014,7,31",
+				"endDate":"2014,7,31",
+                "headline":"WHP Description",
+                "text":"<p>Adding a product description under the product name on the Wireless Home Phone page will increase understanding of the product and increase WHP conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/whp.JPG",
+                    "credit":"<b>Wireless Home Phone</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"myatt, services", 
+ 	 	 	 	"startDate":"2014,7,31",
+				"endDate":"2014,7,31",
+                "headline":"MyAtt Services Profile Upgrade Link",
+                "text":"<p>Presenting the Check Upgrade Options link on the profile page will increase engagement with the link and increase satisfaction.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/upgradelink.JPG",
+                    "credit":"<b>myAT&T Services</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"global nav, home page", 
+ 	 	 	 	"startDate":"2014,8,4",
+				"endDate":"2014,8,4",
+                "headline":"GN Link Changes",
+                "text":"<p>Changing the navigation on Shop and Shop Wireless Landers will improve conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/gnavchange.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"accessories, accessory, global nav", 
+ 	 	 	 	"startDate":"2014,8,13",
+				"endDate":"2014,8,13",
+                "headline":"Accessory GN Link Changes",
+                "text":"<p>Linking directly to the list page in the global nav rather than the lander will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/accnav.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"buttons, shop page, shop", 
+ 	 	 	 	"startDate":"2014,8,14",
+				"endDate":"2014,8,14",
+                "headline":"Shop Now Buttons",
+                "text":"<p>Including button style CTAs is more effective that clickable images and links alone.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/shopnow.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"plans, price block, mobile", 
+ 	 	 	 	"startDate":"2014,8,19",
+				"endDate":"2014,8,19",
+                "headline":"Mobile Wireless plans CTA",
+                "text":"<p>Duplicating the CTA higher up on the page will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/planscta.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"gophone, cta, price block", 
+ 	 	 	 	"startDate":"2014,8,20",
+				"endDate":"2014,8,20",
+                "headline":"GoPhone CTA",
+                "text":"<p>Adding a CTA above the fold on the page will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/gophonecta.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"offers, uverse", 
+ 	 	 	 	"startDate":"2014,8,26",
+				"endDate":"2014,8,26",
+                "headline":"Movers Offers",
+                "text":"<p>Changing the location of the CTA on the Movers Offers Landing Page will increase click-through rate on the Get Started CTA.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/move.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"tdata, shop", 
+ 	 	 	 	"startDate":"2014,8,29",
+				"endDate":"2014,8,29",
+                "headline":"T-Data Marquee (unauthenticated)",
+                "text":"<p>T-Data on the unauthenticated shop lander page marquee yields higher conversion rates when compared to CQ fed content.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/tdata.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"shipping, banner, free shipping", 
+ 	 	 	 	"startDate":"2014,8,29",
+				"endDate":"2014,8,29",
+                "headline":"Free Shipping/Free Returns",
+                "text":"<p>Adding a free shipping banner to the top of the page will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/banner.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse, mobile", 
+ 	 	 	 	"startDate":"2014,9,4",
+				"endDate":"2014,9,4",
+                "headline":"Mobile shop u-verse CTA Phase 2",
+                "text":"<p>Changing the copy on the mobile shop u-verse page CTA will reduce abandonment, reduce click-thru rate for the contact us link, and increase the click-through rate for the main CTA.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/cta2.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse", 
+ 	 	 	 	"startDate":"2014,9,11",
+				"endDate":"2014,9,11",
+                "headline":"U-verse IPDSL",
+                "text":"<p>Updating various Marquee elements in the IPDSL Landing Page will increase CTR, order initiations, and conversion rate.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/ipdsl.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"cta, marquee, wireless", 
+ 	 	 	 	"startDate":"2014,9,11",
+				"endDate":"2014,9,11",
+                "headline":"Wireless Customer",
+                "text":"<p>Updating the Marquee CTA copy will increase CTR, order initiations, and conversion rate.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/wire.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"myatt, services", 
+ 	 	 	 	"startDate":"2014,9,15",
+				"endDate":"2014,9,15",
+                "headline":"UPDATE myAtt Services Profile Upgrade Link",
+                "text":"<p>Presenting the Check Upgrade Options link on the profile page will increase engagement with the link and increase satisfaction.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/upgrade2.JPG",
+                    "credit":"<b>myAT&T Services</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"home page, login", 
+ 	 	 	 	"startDate":"2014,9,18",
+				"endDate":"2014,9,18",
+                "headline":"Homepage Login",
+                "text":"<p>Collapsing the Homepage Login form will not decrease customer logins.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/login.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"iru, home page", 
+ 	 	 	 	"startDate":"2014,9,18",
+				"endDate":"2014,9,18",
+                "headline":"IRU Tiles",
+                "text":"<p>Presenting IRU content on the Homepage and Shop Wireless Lander will drive traffic to the new IRU Lander.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/iru.JPG",
+                    "credit":"<b>Wireless IRU</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"plans page, mobileshare", 
+ 	 	 	 	"startDate":"2014,9,22",
+				"endDate":"2014,9,22",
+                "headline":"10GB Badge",
+                "text":"<p>Adding content to differentiate the 10GB plan will increase conversion and sales of the 10GB plan.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/tile.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse, buttons", 
+ 	 	 	 	"startDate":"2014,9,22",
+				"endDate":"2014,9,22",
+                "headline":"U-verse Check Availability",
+                "text":"<p>Displaying only required fields on the Check Availability page will improve customer experience, reduce user-entered errors, and increase conversion rate.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/checkavail.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"plans, mobile, mobileshare", 
+ 	 	 	 	"startDate":"2014,9,23",
+				"endDate":"2014,9,23",
+                "headline":"(UPDATE) Mobile Wireless plans CTA",
+                "text":"<p>Duplicating the CTA higher up on the page will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/mobcta.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"tdata", 
+ 	 	 	 	"startDate":"2014,9,25",
+				"endDate":"2014,9,25",
+                "headline":"T-Data",
+                "text":"<p>T-Data content on the Shop Lander Marquee will increase conversion when compared to CQ content.</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"<b>T-Data</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse", 
+ 	 	 	 	"startDate":"2014,9,29",
+				"endDate":"2014,9,29",
+                "headline":"U-verse HSIA",
+                "text":"<p>Changing the order of the selections on the U-verse HSIA page from ascending to descending will increase take rate for the higher plans and revenue per customer without negatively impacting conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/hsia.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"bellyband, bluekai, home page", 
+ 	 	 	 	"startDate":"2014,10,2",
+				"endDate":"2014,10,2",
+                "headline":"BlueKai Bellyband",
+                "text":"<p>Utilizing BlueKai data to personalize the presentation of the homepage bellyband will increase CTR for personalized content and conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/bluekai.JPG",
+                    "credit":"<b>Bluekai</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"free phones,marquee, banner", 
+ 	 	 	 	"startDate":"2014,10,6",
+				"endDate":"2014,10,6",
+                "headline":"Free Phones Banner",
+                "text":"<p>Adding free phones content to the shop wireless lander will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/free.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"accessories, accessory, carousel", 
+ 	 	 	 	"startDate":"2014,10,7",
+				"endDate":"2014,10,7",
+                "headline":"Stacked Recommendation Carousel",
+                "text":"<p>Using a stacked recommendation carousel at the accessory step in the buy flow will increase accessory attach rate.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/accupsell.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"cart summary, redesign", 
+ 	 	 	 	"startDate":"2014,10,8",
+				"endDate":"2014,10,8",
+                "headline":"Cart Summary AB",
+                "text":"<p>Modifying the layout of the cart summary page to implement the three most performant variants from the previous cart summary multivariate test will increase order conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/cart2.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"home page, redesign, desktop", 
+ 	 	 	 	"startDate":"2014,10,17",
+				"endDate":"2014,10,17",
+                "headline":"Homepage Redesign - Desktop",
+                "text":"<p>Modifying the layout of att.com will help users navigate into the sales, service, and support flows faster and improve CSAT and conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/hp.JPG",
+                    "credit":"<b>Wireless & Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"home page, redesign, mobile", 
+ 	 	 	 	"startDate":"2014,10,17",
+				"endDate":"2014,10,17",
+                "headline":"Homepage Redesign - Mobile",
+                "text":"<p>Modifying the layout of att.com will help users navigate into the sales, service, and support flows faster and improve CSAT and conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/hpmob.JPG",
+                    "credit":"<b>Wireless & Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"whats this, modal, price block, device details, details page, smartphones, next", 
+ 	 	 	 	"startDate":"2014,10,21",
+				"endDate":"2014,10,21",
+                "headline":"Dynamic 'What’s This' Modal",
+                "text":"<p>Having a What's this modal respective to the device improves CSAT and conversion.</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"<b>Wireless,/b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"next, lander", 
+ 	 	 	 	"startDate":"2014,10,22",
+				"endDate":"2014,10,22",
+                "headline":"Persado",
+                "text":"<p>Optimizing content on the Next Lander using Persado will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/persado.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"gophone, marquee", 
+ 	 	 	 	"startDate":"2014,10,27",
+				"endDate":"2014,10,27",
+                "headline":"GoPhone Marquee Content",
+                "text":"<p>Using processor specific content on the marquee will increase CTA click through and device conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/go.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"mobileshare, plans page", 
+ 	 	 	 	"startDate":"2014,10,27",
+				"endDate":"2014,10,27",
+                "headline":"Double Data call out",
+                "text":"<p>Using content that highlights the double data promotion will help users recognize the offer and increase conversion for the eligible plans.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/ddata.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"upgrade, next", 
+ 	 	 	 	"startDate":"2014,10,27",
+				"endDate":"2014,10,27",
+                "headline":"Upgrade Advantage",
+                "text":"<p>By placing the Check Eligibility button and including Next content in the marquee we will increase upgrade logins over current login rate, and increase Next attach.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/upadv.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"upgrade, myatt, whats this", 
+ 	 	 	 	"startDate":"2014,10,28",
+				"endDate":"2014,10,28",
+                "headline":"Whats ATT Next on upgrade eligibility page",
+                "text":"<p>Presenting the 'What’s this' modal link on the upgrade eligibility page will increase Next attach for upgrade customers.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/what.JPG",
+                    "credit":"<b>myAT&T Sales,/b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"tdata, marquee", 
+ 	 	 	 	"startDate":"2014,10,29",
+				"endDate":"2014,10,29",
+                "headline":"T-Data Marquee Authenticated",
+                "text":"<p>Monitoring marquee content</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/tdata3.JPG",
+                    "credit":"<b>T-Data</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse, promo", 
+ 	 	 	 	"startDate":"2014,11,3",
+				"endDate":"2014,11,3",
+                "headline":"U-verse Promo Bar",
+                "text":"<p>Altering creative styling on the promo bar in u-verse will increase click through and conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/uvpromo.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"certified, price block", 
+ 	 	 	 	"startDate":"2014,11,3",
+				"endDate":"2014,11,3",
+                "headline":"CLN without 2_year pricing",
+                "text":"<p>Removing 2 year pricing for CLN devices will increase Next Attach.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/hide2.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"accessories, accessory, cases, list page", 
+ 	 	 	 	"startDate":"2014,11,4",
+				"endDate":"2014,11,4",
+                "headline":"Cases List Default Sort Order",
+                "text":"<p>Customers that visit the Cases list page with 'Best Selling' default sort will have higher product views and higher conversion than those that view the list page 'Featured' Default sort.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/featured.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"mobile share, plan page", 
+ 	 	 	 	"startDate":"2014,11,5",
+				"endDate":"2014,11,5",
+                "headline":"Double Data Copy",
+                "text":"<p>Using content that helps users to understand how they can use 30GB of data will increase take rate of the 30GB plan.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/gb30.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"device details, price block, adwords, details page, smartphones", 
+ 	 	 	 	"startDate":"2014,11,10",
+				"endDate":"2014,11,10",
+                "headline":"AdWords Copy",
+                "text":"<p>Using consistent copy on the device details page when traffic comes from AdWords will increase add to cart clicks and conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/pbad.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"accessories, accessory, list page", 
+ 	 	 	 	"startDate":"2014,11,11",
+				"endDate":"2014,11,11",
+                "headline":"Accessory List Page Promo",
+                "text":"<p>Accessory List Page Promo</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/acc15.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"whats this, price block, device details, details page, smartphones", 
+ 	 	 	 	"startDate":"2014,11,12",
+				"endDate":"2014,11,12",
+                "headline":"(UPDATE) Dynamic Whats This Modal",
+                "text":"<p>Presenting dynamic content for specific devices on the device details page 'what’s this' modal will improve the user’s understanding of Next and increase Next attach rate and conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/whatsthis.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse", 
+ 	 	 	 	"startDate":"2014,11,14",
+				"endDate":"2014,11,14",
+                "headline":"U-verse $39 Offer",
+                "text":"<p>Displaying the $39 DP offer on the Most Popular Bundles page will increase orders and conversion rate without negatively impacting sales revenue.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/dp39.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"next, price block, device details, details page, smartphones", 
+ 	 	 	 	"startDate":"2014,11,19",
+				"endDate":"2014,11,19",
+                "headline":"Hide Next 12 18",
+                "text":"<p>Limiting the number of Next options will simplify the price block and increase Next attach.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/next1218.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse", 
+ 	 	 	 	"startDate":"2014,11,19",
+				"endDate":"2014,11,19",
+                "headline":"U-verse Marquee CTA",
+                "text":"<p>Updating the marquee CTA copy will increase CTR, order initiations, and conversion rate.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/ctauv.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"home page, redesign", 
+ 	 	 	 	"startDate":"2014,11,21",
+				"endDate":"2014,11,21",
+                "headline":"(UPDATE) Homepage Redesign ",
+                "text":"<p>Modifying the layout of att.com will help users navigate into the sales, service, and support flows faster and improve CSAT and conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/hp2.JPG",
+                    "credit":"<b>Wireless & Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"cta, accessories, accessory", 
+ 	 	 	 	"startDate":"2014,11,25",
+				"endDate":"2014,11,25",
+                "headline":"Suppress Accessory Continue Button",
+                "text":"<p>Accessory attach rate will increase in the device buy flow if the 'Continue to Next Step' button only appears at the bottom of the accessory list page in the accessories step of the buy flow.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/conti.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"tablet, promo, cart summary", 
+ 	 	 	 	"startDate":"2014,11,26",
+				"endDate":"2014,11,26",
+                "headline":"Bundled promotions in cart",
+                "text":"<p>When offers are presented on the cart summary page to qualified users offer performance will increase.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/promo1.JPG",
+                    "credit":"<b>Tablet Sales</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"mobile share, plans page, wireless, data plan", 
+ 	 	 	 	"startDate":"2014,12,10",
+				"endDate":"2014,12,10",
+                "headline":"10GB copy",
+                "text":"<p>Using content that helps users to understand how they can use 10GB of data will increase take rate of the 10GB plan.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/gb103.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"bellyband, bluekai, home page", 
+ 	 	 	 	"startDate":"2014,12,10",
+				"endDate":"2014,12,10",
+                "headline":"(UPDATE) BlueKai Bellyband ",
+                "text":"<p>Utilizing BlueKai data to personalize the presentation of the homepage bellyband will increase CTR for personalized content and conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/blue2.JPG",
+                    "credit":"<b>Bluekai</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"accessories, accessory, device details", 
+ 	 	 	 	"startDate":"2014,12,17",
+				"endDate":"2014,12,17",
+                "headline":"Device Detail Accessory cross sell",
+                "text":"<p>Making accessories accessible on (phone/tablet) device detail pages will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/acc4.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"price block, device details, details page, smartphones", 
+ 	 	 	 	"startDate":"2014,12,17",
+				"endDate":"2014,12,17",
+                "headline":"Term Selection Copy",
+                "text":"<p>Using copy that focuses on upgrade time frame and down payment rather than using standard term selection names on the device details page price-block will increase Next attach rate.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/pb4.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"cart summary, promo, bundles", 
+ 	 	 	 	"startDate":"2014,12,17",
+				"endDate":"2014,12,17",
+                "headline":"(UPDATE) Cart Summary Promo - Bundles",
+                "text":"<p>Using copy that focuses on upgrade time frame and down payment rather than using standard term selection names on the device details page price-block will increase Next attach rate.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/promo2.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"accessories, accessory, promo", 
+ 	 	 	 	"startDate":"2014,12,29",
+				"endDate":"2014,12,29",
+                "headline":"Beats promotions",
+                "text":"<p>Making users aware of Beats promotions that they qualify for at the end of the buy-flow before the cart summary page will increase the performance of the promotion.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/promo3.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse, offers, promo", 
+ 	 	 	 	"startDate":"2014,12,29",
+				"endDate":"2014,12,29",
+                "headline":"U-verse Special Offers",
+                "text":"<p>Higher visibility of Special Offers modals for both U-verse products will increase conversion rate and Upsells orders by displaying them above the fold.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/uvsploff.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"add a line, modal", 
+ 	 	 	 	"startDate":"2015,1,5",
+				"endDate":"2015,1,5",
+                "headline":"Multi-line modal",
+                "text":"<p>Adding a message within the 'Important info about your cart' modal to inform users that they can only upgrade 1 line at a time will improve CSAT.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/csat.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"modal, price block, device details, details page, smartphones", 
+ 	 	 	 	"startDate":"2015,1,8",
+				"endDate":"2015,1,8",
+                "headline":"Two-year Contract Modal Popup",
+                "text":"<p>Alerting new users to missing MSV savings via a modal will encourage them to select Next and increase Next attach.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/pb5.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse", 
+ 	 	 	 	"startDate":"2015,1,9",
+				"endDate":"2015,1,9",
+                "headline":"U-verse Ratings and Reviews",
+                "text":"<p>Suppressing the 'Rates and Reviews' on the Shop LOB pages will not affect order conversions.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/rr.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"mobile, uverse", 
+ 	 	 	 	"startDate":"2015,1,14",
+				"endDate":"2015,1,14",
+                "headline":"U-verse Mobile Navigation",
+                "text":"<p>Suppressing the navigation menu bar within the Mobile Buy Flow (after Check Availability) will not decrease conversion.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/uvsupp.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse, marquee", 
+ 	 	 	 	"startDate":"2015,1,19",
+				"endDate":"2015,1,19",
+                "headline":"U-verse Home Phone Marquee",
+                "text":"<p>Using content that is designed for a particular segment (retiree) will increase CTR, order initiations, and conversion rate.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/retire.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"global nav, cart", 
+ 	 	 	 	"startDate":"2015,1,21",
+				"endDate":"2015,1,21",
+                "headline":"Global Nav Cart Icon",
+                "text":"<p>By placing the My Wireless Cart link to the right of the search bar, it will increase cart conversions.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/cart.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"mobile, term select, price block, plans", 
+ 	 	 	 	"startDate":"2015,1,26",
+				"endDate":"2015,1,26",
+                "headline":"Mobile Term Selection CTA",
+                "text":"<p>Adding 'Cancel/Select' CTA above the contract options on the mobile term selection page will increase Next attach.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/cansel.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"cart summary, accessories, accessory", 
+ 	 	 	 	"startDate":"2015,1,26",
+				"endDate":"2015,1,26",
+                "headline":"Cart Summary cross sell modal for accessories",
+                "text":"<p>Customers that click the 'Add accessories' link on the Cart Summary page and see the Cross-Sell modal add more accessories to cart and convert higher than the list page variant.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/addacc.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"auto pay, myatt, services", 
+ 	 	 	 	"startDate":"2015,1,28",
+				"endDate":"2015,1,28",
+                "headline":"Alternate copy tested for auto-pay registration page",
+                "text":"<p>Using different copy on auto-pay registration pages will increase enrollment in auto-pay.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/auto.JPG",
+                    "credit":"<b>myAT&T Services</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"accessories, accessory, promo", 
+ 	 	 	 	"startDate":"2015,1,29",
+				"endDate":"2015,1,29",
+                "headline":"Accessory Promo Tile on left rail of list page",
+                "text":"<p>Displaying a promotional tile in the left rail of the accessory list page will increase offer performance and increase accessory attach.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/accrail.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse, promo", 
+ 	 	 	 	"startDate":"2015,2,4",
+				"endDate":"2015,2,4",
+                "headline":"Test CTA copy for U-verse Promo Bar Phase 2",
+                "text":"<p>Changing the button within the alert bar on uverse.com from 'Get Started' to 'Check Availability' and using the check availability modal instead of the page will increase orders.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/uvpromo1.JPG",
+                    "credit":"<b>Uverse.com</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"international minutes, myatt, services", 
+ 	 	 	 	"startDate":"2015,2,11",
+				"endDate":"2015,2,11",
+                "headline":"International Travel product alternate copy (Desktop)",
+                "text":"<p>Using different copy for International travel plan option labels will increase Plan link CTR and conversion.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/intmin.JPG",
+                    "credit":"<b>myAT&T Sales</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"msv, mobileshare, plans page, plans list", 
+ 	 	 	 	"startDate":"2015,2,19",
+				"endDate":"2015,2,19",
+                "headline":"Curated MSV plans list",
+                "text":"<p>Listing the higher selling plans at the top of the list will increase the take rate for those plans.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/plansinc.JPG",
+                    "credit":"<b>myAT&T Sales</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"free phones, next, banner", 
+ 	 	 	 	"startDate":"2015,2,23",
+				"endDate":"2015,2,23",
+                "headline":"Add a Next focused banner to the Free Phones List",
+                "text":"<p>Adding a Next banner to the Free Phones filter on the device list page will increase Next attach and conversion.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/ban.JPG",
+                    "credit":"<b>myAT&T Sales</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"accessories, accessory, carousel, details page", 
+ 	 	 	 	"startDate":"2015,2,25",
+				"endDate":"2015,2,25",
+                "headline":"Suppress accessory carousels on details pages",
+                "text":"<p>Suppressing the accessory recommender and frequently purchased together carousel/s on device/accessory details pages increases accessory attach or not.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/supprec.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"shop, tablet, myatt", 
+ 	 	 	 	"startDate":"2015,2,26",
+				"endDate":"2015,2,26",
+                "headline":"Shop wireless tablet marque position 4 comparison of 2 offers ",
+                "text":"<p>Using the everyday value tablet marquee in position 4 rather than the device specific marquee will increase conversion.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/tablet.JPG",
+                    "credit":"<b>myAT&T Sales</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"bellyband, home page, accessories, acessory", 
+ 	 	 	 	"startDate":"2015,2,26",
+				"endDate":"2015,2,26",
+                "headline":"Accessory Bellyband (Charger in position 2)",
+                "text":"<p>Placing an icon for accessories on the Homepage Bellyband will increase accessory attach rate.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/bb4.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse", 
+ 	 	 	 	"startDate":"2015,3,2",
+				"endDate":"2015,3,2",
+                "headline":"Default to Triple Play",
+                "text":"<p>Displaying Triple Play Filter and Triple Play offers by default will result in improvement in DP and TP % (hence revenue) out of total sales without impacting conversion rate.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/triple.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse", 
+ 	 	 	 	"startDate":"2015,3,3",
+				"endDate":"2015,3,3",
+                "headline":"U-verse tile content - compare 3 variant options for content banner at top of page",
+                "text":"<p>Using different content/tiles on uverse.com will increase conversion.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/uvtile.JPG",
+                    "credit":"<b>Uverse.com</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse", 
+ 	 	 	 	"startDate":"2015,3,4",
+				"endDate":"2015,3,4",
+                "headline":"Suppress the 'AT&T land line phone' option and related content",
+                "text":"<p>Removing the 'AT&T Landline' option in the mobile Check Availability Page will reduce user-entered errors and increase conversion rate by presenting the user with the appropriate Response Page. <p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/lline.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"accessories, accessory, cases, cart summary, promo", 
+ 	 	 	 	"startDate":"2015,3,4",
+				"endDate":"2015,3,4",
+                "headline":"$10 cases on cart summary in bundled promo area",
+                "text":"<p>Offering affordable cases to customers that do not have a case in cart in the cart summary promotional area will increase accessory attach rate.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/case10.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"accessories, accessory, bellyband, home page", 
+ 	 	 	 	"startDate":"2015,3,4",
+				"endDate":"2015,3,4",
+                "headline":"(UPDATE) Accessory Bellyband  (Charger in position 6)",
+                "text":"<p>Adding accessories to the ATT.com homepage belly band will increase traffic to accessories and ultimately lead to more accessories revenue and units sold.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/bb5.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse", 
+ 	 	 	 	"startDate":"2015,3,5",
+				"endDate":"2015,3,5",
+                "headline":"(UPDATE) U-verse Check Availability",
+                "text":"<p>Displaying only required fields on the Check Availability page will improve customer experience, reduce user-entered errors, and increase conversion rate.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/req.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"whats this, next, price block, device details, details page, smartphones, modal", 
+ 	 	 	 	"startDate":"2015,3,9",
+				"endDate":"2015,3,9",
+                "headline":"Next comparison table added to the Next lander",
+                "text":"<p>Adding the 'What’s This' modal table to the Next landing page will decrease exit rates from the page, and increase Next attach.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/what3.JPG",
+                    "credit":"<b>myAT&T Sales</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"service list, insurance, services", 
+ 	 	 	 	"startDate":"2015,3,10",
+				"endDate":"2015,3,10",
+                "headline":"Use alternate copy 'I Decline device protection' on features list page",
+                "text":"<p>Using more direct copy to decline insurance coverage will increase take rate for insurance products.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/decline.JPG",
+                    "credit":"<b>myAT&T Sales</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"tdata, shop", 
+ 	 	 	 	"startDate":"2015,3,10",
+				"endDate":"2015,3,10",
+                "headline":"T-Data on Shop Lander - Unauthenticated",
+                "text":"<p>T-Data on the unauthenticated shop lander page marquee yields higher panel CTR rates and orders when compared to CQ fed content for U-verse and Wireless content.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/tdata5.JPG",
+                    "credit":"<b>T-Data</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"price block, device details, details page, reviews, smartphones", 
+ 	 	 	 	"startDate":"2015,3,12",
+				"endDate":"2015,3,12",
+                "headline":"Add rates and review stars to device detail page under product description",
+                "text":"<p>Adding device star rating and number of reviews at the top of the details page immediately below the product name will increase conversion.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/rr2.JPG",
+                    "credit":"<b>myAT&T Sales</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"home page, redesign", 
+ 	 	 	 	"startDate":"2015,3,13",
+				"endDate":"2015,3,13",
+                "headline":"(UPDATE) Homepage Redesign Phase 2",
+                "text":"<p>Modifying the layout of att.com will help users navigate into the sales, service, and support flows faster and improve CSAT and conversion.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/hp3.JPG",
+                    "credit":"<b>myAT&T Sales</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"international, myatt", 
+ 	 	 	 	"startDate":"2015,3,16",
+				"endDate":"2015,3,16",
+                "headline":"International Travel product alternate copy (Mobile)",
+                "text":"<p>Using different copy for International travel plan option labels will increase Plan link CTR and conversion.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/int.JPG",
+                    "credit":"<b>myAT&T Services</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"promo, myatt", 
+ 	 	 	 	"startDate":"2015,3,16",
+				"endDate":"2015,3,16",
+                "headline":"Bundled Promo offer within a modal after line configuration",
+                "text":"<p>Offering a bundled promotion to qualified users at the end of the buy flow will increase offer performance.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/bundle.JPG",
+                    "credit":"<b>myAT&T Sales</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"promo, cases, cart summary, accessories", 
+ 	 	 	 	"startDate":"2015,3,17",
+				"endDate":"2015,3,17",
+                "headline":"$10 cases on cart summary inline treatment vs Promo treatment",
+                "text":"<p>Offering affordable cases to customers that do not have a case in cart in the cart summary add accessory area will increase accessory attach rate.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/promo5.JPG",
+                    "credit":"<b>myAT&T Sales</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse, marquee", 
+ 	 	 	 	"startDate":"2015,3,19",
+				"endDate":"2015,3,19",
+                "headline":"Reduce the number of U-verse Marquee panels in the Rotation",
+                "text":"<p>Displaying fewer marquees will increase overall CTR for marquees and not have a negative impact on sales. <p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/few.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"cart summary, promo, accessories, accessory", 
+ 	 	 	 	"startDate":"2015,3,26",
+				"endDate":"2015,3,26",
+                "headline":"Samsung Gear Circle in Cart Summary Promo",
+                "text":"<p>When offers are presented on the cart summary page to qualified users offer performance will increase.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/promo6.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"price block, device details, smartphones", 
+ 	 	 	 	"startDate":"2015,3,26",
+				"endDate":"2015,3,26",
+                "headline":"G6 Device Launch support - CTA copy changed to 'Coming Soon'",
+                "text":"<p>Button copy is changed from 'Out of Stock' to 'Coming Soon' for select pre-order devices.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/button.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"promo, cart summary", 
+ 	 	 	 	"startDate":"2015,3,30",
+				"endDate":"2015,3,30",
+                "headline":"Bundled Promo Modal (Gear Circle)",
+                "text":"<p>Offering a bundled promotion to qualified users at the end of the buy flow will increase offer performance.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/promo7.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"bellyband, home page, accessories, accessory", 
+ 	 	 	 	"startDate":"2015,4,1",
+				"endDate":"2015,4,1",
+                "headline":"Accessory Bellyband Headphone vs Charger Icon",
+                "text":"<p>Adding accessories to the ATT.com homepage belly band will increase traffic to accessories and ultimately lead to more accessories revenue and units sold.<p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/bb7.JPG",
+                    "credit":"<b>Accesories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse", 
+ 	 	 	 	"startDate":"2015,4,2",
+				"endDate":"2015,4,2",
+                "headline":"Suppress 'AT&T Landline' on availability.html page (take 2)",
+                "text":"<p>Removing the 'AT&T Landline' option in the mobile Check Availability Page will reduce user-entered errors and increase conversion rate by presenting the user with the appropriate Response Page.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/landline.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+            },{
+                "tag":"gophone, wireless", 
+ 	 	 	 	"startDate":"2015,4,6",
+				"endDate":"2015,4,6",
+                "headline":"Suppressing the Account Management tiles on gophone.html",
+                "text":"<p>Suppressing the icons in the static tiles to the right of the marquee on the GoPhone lander will increase CTR for account management links.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/management_tiles.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+            },{
+                "tag":"global nav, accessories, accessory", 
+ 	 	 	 	"startDate":"2015,4,15",
+				"endDate":"2015,4,15",
+                "headline":"Add Accessories to the Global Nav",
+                "text":"<p>Adding accessories to the ATT.com global nav will increase traffic to accessories and ultimately lead to more accessories revenue and units sold.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/acc_gnav.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"video, device details, mobile", 
+ 	 	 	 	"startDate":"2015,4,16",
+				"endDate":"2015,4,16",
+                "headline":"Video Icon on device details",
+                "text":"<p>Using an icon that is more easily recognized will result in higher CTR for the icon and higher conversions on the devices.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/video_icon.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"cart summary, redesign", 
+ 	 	 	 	"startDate":"2015,4,16",
+				"endDate":"2015,4,16",
+                "headline":"Cart Summary Redesign with summaries at the top of the page",
+                "text":"<p>Presenting the prices on the Cart Summary page in sections that call out monthly, due today and one-time costs versus price points within the context of a line (as in production today) will minimize confusion and increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/cs_rdesign.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"shop, mobile, term select", 
+ 	 	 	 	"startDate":"2015,4,16",
+				"endDate":"2015,4,16",
+                "headline":"Shop mobile - remove Cancel Button from termselection.html ",
+                "text":"<p>Removing the “Cancel” CTA from the “Cancel/Select” CTA on the mobile term selection page will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/atc_btn.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"international, myatt", 
+ 	 	 	 	"startDate":"2015,4,20",
+				"endDate":"2015,4,20",
+                "headline":"International Travel Copy Phase 2",
+                "text":"<p>Using different copy for International travel plan option labels will increase Plan link CTR and conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/int_min.JPG",
+                    "credit":"<b>myAT&T</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"price block, accessories, accessory, device details, details page, smartphones", 
+ 	 	 	 	"startDate":"2015,4,20",
+				"endDate":"2015,4,20",
+                "headline":"On device details fit the Accessory Carousel below the device video but left of the price block",
+                "text":"<p>By elevating the accessory recommendations carousel on the device details page, accessory add-to-cart clicks and sales/attach rate will increase.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/raise_ca.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"mobileshare, plans, next", 
+ 	 	 	 	"startDate":"2015,4,20",
+				"endDate":"2015,4,20",
+                "headline":"Highlight Next savings within the table on mobileshare.html page",
+                "text":"<p>Showing users the value of MSV savings on the MobileShare plans page and allowing them to change their term selection to Next will increase Next attach.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/next_msv.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"myatt, desktop, marquee", 
+ 	 	 	 	"startDate":"2015,4,22",
+				"endDate":"2015,4,22",
+                "headline":"LG Marquee - special-offers.html",
+                "text":"<p>Reducing copy to focus on standalone free offers or bill credit with Next offers rather than combining offer copy on marquees will increase CTR for the learn more CTA.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/lg_marquee.JPG",
+                    "credit":"<b>myAT&T Sales</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"mobile, term select, price block", 
+ 	 	 	 	"startDate":"2015,4,23",
+				"endDate":"2015,4,23",
+                "headline":"Split term selection options on different tabs",
+                "text":"<p>Framing content differently to separate payment types will not decrease conversion on the mobile termselection.html page.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/termselect_tabs.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse", 
+ 	 	 	 	"startDate":"2015,4,23",
+				"endDate":"2015,4,23",
+                "headline":"Uverse bundles in descending order",
+                "text":"<p>Reordering the bundles displayed on the shop offers page will increase the take rate for the higher offer packages without having a negative impact on conversion rate.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/termselect_tabs.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse", 
+ 	 	 	 	"startDate":"2015,4,23",
+				"endDate":"2015,4,23",
+                "headline":"Uverse bundles in descending order",
+                "text":"<p>Reordering the bundles displayed on the shop offers page will increase the take rate for the higher offer packages without having a negative impact on conversion rate.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/u_order.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"offers, uverse, desktop", 
+ 	 	 	 	"startDate":"2015,4,28",
+				"endDate":"2015,4,28",
+                "headline":"Suppress BYOB CTA on offers.html page",
+                "text":"<p>Removing the Build Your Own Bundle CTA from the Shop Offers Page will improve conversion without negatively impacting quality of sales.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/uverse_btn.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"price block, list page, smartphones, next", 
+ 	 	 	 	"startDate":"2015,4,29",
+				"endDate":"2015,4,29",
+                "headline":"On List and Device details page set the default pricing from Next to 2-year",
+                "text":"<p>Changing the default contract type from ATT Next to 2year for new customers (unauthenticated) will increase conversions.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/default_2yr.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse, shop", 
+ 	 	 	 	"startDate":"2015,4,29",
+				"endDate":"2015,4,29",
+                "headline":"Shop Bundles - Different CTA Copy of marquess",
+                "text":"<p>Updating the marquee CTA copy will increase CTR, order initiations, and conversion rate.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/uverse_marquee.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"services, insurance, serice list", 
+ 	 	 	 	"startDate":"2015,4,30",
+				"endDate":"2015,4,30",
+                "headline":"Mobile Insurance 'I Decline Device Protection'",
+                "text":"<p>Using more direct copy to decline insurance coverage will increase take rate for insurance products.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/i_decline.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"cta, list pages, whole site", 
+ 	 	 	 	"startDate":"2015,5,4",
+				"endDate":"2015,5,4",
+                "headline":"Changing list pages to check out CTA button colors - (Gold, Orange, Green) ",
+                "text":"<p>Providing a consistent color for the primary CTA on the page will increase conversion, engagement and reduce page abandonment.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/color_btns.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"session, modal", 
+ 	 	 	 	"startDate":"2015,5,5",
+				"endDate":"2015,5,5",
+                "headline":"Suppress Session Expire modal",
+                "text":"<p>Removing session expire functionality will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/session_expire.JPG",
+                    "credit":"<b>myAT&T Sales</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"shipping, price block, device details", 
+ 	 	 	 	"startDate":"2015,5,6",
+				"endDate":"2015,5,6",
+                "headline":"Overnight shipping copy on device details",
+                "text":"<p>Adding more precise delivery expectations will increase conversions/sales.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/shipping_msg.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"cart summary, promo", 
+ 	 	 	 	"startDate":"2015,5,7",
+				"endDate":"2015,5,7",
+                "headline":"Comparison of interstitial treatment vs cart summary promo",
+                "text":"<p>The cart summary promotional area will perform better to increase offer take rate when compared to the interstitial/modal.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/acc_modal.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"msv, mobileshare, plans", 
+ 	 	 	 	"startDate":"2015,5,11",
+				"endDate":"2015,5,11",
+                "headline":"Suppress green MSV savings statements on price block",
+                "text":"<p>Savings statements are confusing to customers, removal of the statements will increase Next attach.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/pb_savings.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"esupport, video, support", 
+ 	 	 	 	"startDate":"2015,5,11",
+				"endDate":"2015,5,11",
+                "headline":"Add eSupport video descriptions and stack videos",
+                "text":"<p>Placing relevant text on-page near a support video will increase CTR for the videos and decrease the direct call rate for that video.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/support_vdos.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"features list, modal, service list, accessories, accessory", 
+ 	 	 	 	"startDate":"2015,5,12",
+				"endDate":"2015,5,12",
+                "headline":"Features list cross sell modal when users decline device protection",
+                "text":"<p>Offering a case carousel on the services list page when a customer declines insurance will increase accessory attach.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/acc_popup.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"accessories, accessory, list page, wireless, mobile", 
+ 	 	 	 	"startDate":"2015,5,12",
+				"endDate":"2015,5,12",
+                "headline":"Accessories in Navigation List under wireless on mobile",
+                "text":"<p>Adding accessories to the m.att.com global nav under the wireless option will increase traffic to accessories and ultimately lead to more accessories revenue and units sold.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/acc_newlink.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse, mobile", 
+ 	 	 	 	"startDate":"2015,5,13",
+				"endDate":"2015,5,13",
+                "headline":"Uverse default double play instead of triple play",
+                "text":"<p>Displaying Double Play offers by default will result in improvement in DP and TV sales (hence revenue) out of total sales without impacting conversion rate.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/triple_play.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"tdata, marquee, homepage", 
+ 	 	 	 	"startDate":"2015,5,13",
+				"endDate":"2015,5,13",
+                "headline":"Homepage marquee T-data versus CQ",
+                "text":"<p>This is a monitoring campaign to capture data for revenues/sales associated with the T-data AB test. The T-data AB test is not conrolled by Maxymiser/Conversion Incubator, but rather is enabled by jsp code deployed to the page.</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"feature list, service list, insurance, desktop", 
+ 	 	 	 	"startDate":"2015,5,21",
+				"endDate":"2015,5,21",
+                "headline":"Add device retail cost to features list page",
+                "text":"<p>Making the full replacement cost for a device apparent on the features list page will increase insurance product take rate.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/fl_insu.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"global nav, home page, cellphones", 
+ 	 	 	 	"startDate":"2015,6,8",
+				"endDate":"2015,6,8",
+                "headline":"Change 'All Cell Phones' link on Global Navigation",
+                "text":"<p>Updating “All Cell Phones & Devices” global navigation link from the devices lander page to cellphones list page and updating the link copy on global navigation will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/gnav_sphones.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse, promo", 
+ 	 	 	 	"startDate":"2015,6,8",
+				"endDate":"2015,6,8",
+                "headline":"Suppress uverse promo banner",
+                "text":"<p>Displaying a Promo banner increases CTR, orders and higher TV Services and bolt-ons.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/uv_banner.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"myatt, wireless, chat", 
+ 	 	 	 	"startDate":"2015,5,22",
+				"endDate":"2015,5,22",
+                "headline":"Across myAT&T Sales Touch Commerce chat will be suppressed",
+                "text":"<p>Will suppressing chat on MyAT&T Sales significantly affect order conversion?</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/chat_test.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"next, price block, device details, details page, smartphones", 
+ 	 	 	 	"startDate":"2015,5,28",
+				"endDate":"2015,5,28",
+                "headline":"Next down payment drop down on device details",
+                "text":"<p>On the wireless details pages move the Next 12 w/ Down Payment option from a radio button to the Next drop down within the price block</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/pb_dp.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"alice, price block, list pages, redesign", 
+ 	 	 	 	"startDate":"2015,6,1",
+				"endDate":"2015,6,1",
+                "headline":"Alice: Suppress 2-year in Mid-Atlantic",
+                "text":"<p>Suppressing 2yr in Las Vegas and Mid-Atlantic regions</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/alice.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:green'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"promo", 
+ 	 	 	 	"startDate":"2015,6,11",
+				"endDate":"2015,6,11",
+                "headline":"Search promo tile test",
+                "text":"<p>The image promo tile will get a higher number of clicks compared to the text based promo tile</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/search_iphone.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"session expire, modal, mobile", 
+ 	 	 	 	"startDate":"2015,6,11",
+				"endDate":"2015,6,11",
+                "headline":"Suppress session expire in mobile",
+                "text":"<p>Removing session expire functionality will increase conversion. </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/search_iphone.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"cln, price block, device details, details page", 
+ 	 	 	 	"startDate":"2015,6,17",
+				"endDate":"2015,6,17",
+                "headline":"Certified Pre-owned messaging",
+                "text":"<p>A marketing message above the priceblock will perform better than the standard treatment for CPO devices. </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/cpo_1.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"wireless, desktop", 
+ 	 	 	 	"startDate":"2015,6,17",
+				"endDate":"2015,6,17",
+                "headline":"Back office checkout page TFN",
+                "text":"<p>Allowing customers the opportunity to call the Back Office to help them complete an online order will reduce cart abandons, drive traffic to the Back Office and ultimately increase Gross Adds. </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/back_office.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"term select, mobile, smartphones", 
+ 	 	 	 	"startDate":"2015,6,17",
+				"endDate":"2015,6,17",
+                "headline":"Mobile Term Selection Tabs leading with 2-year",
+                "text":"<p>Framing content differently to separate payment types will not decrease conversion. </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/termselect_m.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"iru, wireless, desktop", 
+ 	 	 	 	"startDate":"2015,6,17",
+				"endDate":"2015,6,17",
+                "headline":"Adobe Target - Present IRU discounts on att.com",
+                "text":"<p>Adding targeted IRU content to att.com pages will increase CTR to the IRU/Enrollment lander and increase successful enrollment/registration for discounts and conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/iru_targeting.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse, landline", 
+ 	 	 	 	"startDate":"2015,6,22",
+				"endDate":"2015,6,22",
+                "headline":"Uverse Remove Landline Option From Check Availability Page",
+                "text":"<p>Removing the “AT&T Landline” option in the Check Availability Page will reduce user-entered errors and increase conversion rate by presenting the user with the appropriate Response Page (Green / Red). </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/landline_hide.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse", 
+ 	 	 	 	"startDate":"2015,6,22",
+				"endDate":"2015,6,22",
+                "headline":"U-verse Mobile Check Availability Tooltip",
+                "text":"<p>Removing the Tooltips modal displayed in the Street Address field in the mobile Check Availability Page will not impact user-entered errors or CTR.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/uverse_tip.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse", 
+ 	 	 	 	"startDate":"2015,6,22",
+				"endDate":"2015,6,22",
+                "headline":"Uverse Digital TV LOB Device vs Lifestyle Image",
+                "text":"<p>Device images drive more traffic than lifestyle images as they appeal to everyone </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/panel_uverse.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"global nav, uverse", 
+ 	 	 	 	"startDate":"2015,6,22",
+				"endDate":"2015,6,22",
+                "headline":"Uverse com Global Nav Modification",
+                "text":"<p>Changing the links within the Global Nav on www.uverse.com will increase engagement and conversions. </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/nav_uverse.JPG",
+                    "credit":"<b>Uverse.com</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"accessories, accessory, marquee, mobile", 
+ 	 	 	 	"startDate":"2015,6,22",
+				"endDate":"2015,6,22",
+                "headline":"Add marquee on the mobile accessory list page",
+                "text":"<p>Adding a marquee on the mobile accessory only list page menu will increase accessory attach.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/acc_m.JPG",
+                    "credit":"<b>Accessory</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"esupport, support, desktop", 
+ 	 	 	 	"startDate":"2015,6,29",
+				"endDate":"2015,6,29",
+                "headline":"Add eSupport Tools Center menu",
+                "text":"<p>Adding a 'Support Tools' menu to the Internet and email eSupport landing page will decrease the number of related calls. </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/s_tools.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"shop, lander", 
+ 	 	 	 	"startDate":"2015,7,1",
+				"endDate":"2015,7,1",
+                "headline":"Adobe Target - Shop Device By Brand",
+                "text":"<p>Having a row of page content on the shop/wireless page that allows the customer to easily shop devices by brand/OEM will increase CTR rate to the OEM sorted list page and device details pages.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/shop_brand.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"global nav, home page, desktop", 
+ 	 	 	 	"startDate":"2015,7,1",
+				"endDate":"2015,7,1",
+                "headline":"Change My Orders Copy on global navigation",
+                "text":"<p>Customers are confused by myOrders being a true DF order versus an account management change (i.e. added a feature, changed a plan), changing the copy will increase understanding and click through, and reduce error count.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/order_status.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"price block, device details, details page, smartphones", 
+ 	 	 	 	"startDate":"2015,7,6",
+				"endDate":"2015,7,6",
+                "headline":"Adobe Target - CPO cross-sell marketing message",
+                "text":"<p>Adding a cross sell marketing message about Certified Pre-Owned (CPO) devices to new device details pages will increase traffic and conversion to CPO devices.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/cpo_1.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"feature list, service list, insurance", 
+ 	 	 	 	"startDate":"2015,7,6",
+				"endDate":"2015,7,6",
+                "headline":"Features List Add Multi Device Content",
+                "text":"<p>Adding content to differentiate insurance products will increase attach rate for device protection products.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/fl_device.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse", 
+ 	 	 	 	"startDate":"2015,7,7",
+				"endDate":"2015,7,7",
+                "headline":"Uverse display total savings instead of a reward card offer",
+                "text":"<p>Displaying total savings instead of a reward card offer will increase click thru rate and orders for moving customers. </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/shop_movers.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"feature list, service list, insurance", 
+ 	 	 	 	"startDate":"2015,7,8",
+				"endDate":"2015,7,8",
+                "headline":"Features list cross sell Android",
+                "text":"<p>Offering a case carousel on the services list page when a customer declines insurance will increase accessory attach. </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/acc_popup2.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"tdata, myatt, desktop", 
+ 	 	 	 	"startDate":"2015,7,13",
+				"endDate":"2015,7,13",
+                "headline":"Overview page tiles",
+                "text":"<p>T-data slots on the myATT overview page will convert better than static tiles.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/overview_uverse.JPG",
+                    "credit":"<b>myAT&T Services</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse", 
+ 	 	 	 	"startDate":"2015,7,14",
+				"endDate":"2015,7,14",
+                "headline":"UV Bundles $49 Offer Marquee",
+                "text":"<p>Displaying 24mbps versus 18mbps will increase click-thru-rate and orders. </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/18_24.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"price block, cpo, details page, device details", 
+ 	 	 	 	"startDate":"2015,7,14",
+				"endDate":"2015,7,14",
+                "headline":"UPDATE CPO messaging",
+                "text":"<p>A marketing message above the price block will perform better than the standard treatment for CPO devices.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/cpo3.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"accessories, accessory, marquee", 
+ 	 	 	 	"startDate":"2015,7,20",
+				"endDate":"2015,7,20",
+                "headline":"Suppress marquee on accessory list",
+                "text":"<p>Hiding the marquee on the accessory list page will increase engagement and attach rate of accessories.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/acc_list_mar.JPG",
+                    "credit":"<b>Accessories</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse, mobile", 
+ 	 	 	 	"startDate":"2015,7,23",
+				"endDate":"2015,7,23",
+                "headline":"U-verse Mobile Shop Page Default to Single Play",
+                "text":"<p>Displaying Single Play offers by default will result in improvement in DP and TV sales (hence revenue) out of total sales without impacting conversion rate. </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/d_play.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"byod, mobile", 
+ 	 	 	 	"startDate":"2015,7,23",
+				"endDate":"2015,7,23",
+                "headline":"Add BYOD segmentation page",
+                "text":"<p>AAL new device orders will not decrease if we allow for BYOD segmentation at AAL entry points for new and existing customers. </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/byod_m.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"cart summary, promo, desktop, wireless", 
+ 	 	 	 	"startDate":"2015,7,23",
+				"endDate":"2015,7,23",
+                "headline":"Comparison of interstitial treatment vs cart summary promo area",
+                "text":"<p>The cart summary promotional area will perform better to increase offer take rate when compared to the interstitial/modal.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/ipad_promo.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"video, price block, device details, details page, smartphones", 
+ 	 	 	 	"startDate":"2015,7,27",
+				"endDate":"2015,7,27",
+                "headline":"Manufacturer video",
+                "text":"<p>Manufacturer videos on device details pages will yield higher conversion than 360 videos/images. </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/sam_vdo.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse, tablet, mobile", 
+ 	 	 	 	"startDate":"2015,7,30",
+				"endDate":"2015,7,30",
+                "headline":"Uverse show tablet users mobile experience",
+                "text":"<p>Tablet customers directed to the mobile experience convert better than tablet customers directed to the desktop experience.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/tab_mob.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"dtv, price block, device details, details page, smartphones, promo", 
+ 	 	 	 	"startDate":"2015,8,9",
+				"endDate":"2015,8,9",
+                "headline":"DTV and Uverse $500 Bill Credit Offer",
+                "text":"<p>We will serve Direct TV and Uverse customers (identified by user attribute user.attributes.bundledServiceIntent when they login via the new unified login) a special $500 worth in bill credits if they switch their wireless carrier to AT&T.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/cpo_dtv.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"feature list, service list, insurance", 
+ 	 	 	 	"startDate":"2015,8,12",
+				"endDate":"2015,8,12",
+                "headline":"Features List Page Alert Modal",
+                "text":"<p>Showing an alert modal when users click on 'I decline device protection' will increase insurance product attach rate. </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/i_decline_in.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"marquee, reviews, uverse, desktop", 
+ 	 	 	 	"startDate":"2015,8,12",
+				"endDate":"2015,8,12",
+                "headline":"Review stars on marquee",
+                "text":"<p>Adding review stars on marquee for the S6 Active will increase CTR for the marquee</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/star_mar.JPG",
+                    "credit":"<b>Uverse.com</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"byob, cta, desktop, uverse", 
+ 	 	 	 	"startDate":"2015,8,13",
+				"endDate":"2015,8,13",
+                "headline":"BYOB Proceed to Checkout CTA and Page Behavior",
+                "text":"<p>Relocating the “Proceed to Checkout” CTA on the BYOB page will increase product attach rate and improve conversion rate. </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/proceed.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"tablet, list page", 
+ 	 	 	 	"startDate":"2015,8,18",
+				"endDate":"2015,8,18",
+                "headline":"Default Tablet list to 2 year",
+                "text":"<p>Defaulting the tablet list page to 2 year rather than Next will increase conversion.  </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/tablet_2yr.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"enjoy, shipping", 
+ 	 	 	 	"startDate":"2015,8,19",
+				"endDate":"2015,8,19",
+                "headline":"Move Enjoy shipping method to top of list",
+                "text":"<p>Moving Enjoy to the top of the list for shipping method on cart summary for all customers in San Francisco and New York City Area will Increase take rate for Enjoy delivery service, without effecting order volume.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/enjoy_ship.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"list page, smartphones, desktop, wireless", 
+ 	 	 	 	"startDate":"2015,8,19",
+				"endDate":"2015,8,19",
+                "headline":"Suppress smartphone list page left nav links",
+                "text":"<p>By removing the fingers from the smartphone list page, users will focus on the products that they came to the page to see,  and we will see a lift in the click-through rate to the product details pages. </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/fingers.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"list page, reviews, desktop, wireless", 
+ 	 	 	 	"startDate":"2015,8,20",
+				"endDate":"2015,8,20",
+                "headline":"CGC on list pages",
+                "text":"<p>Adding the star rating number and adding the word “reviews” in the current product star rating line will increase CTR. </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/review_stars.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"dtv, uverse, desktop", 
+ 	 	 	 	"startDate":"2015,8,26",
+				"endDate":"2015,8,26",
+                "headline":"Referral urls for DTV",
+                "text":"<p>Directing customers to a different page from the Directv offers page will decrease customers directed to call to orders page.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/dtv_offers.JPG",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"gigapower, uverse", 
+ 	 	 	 	"startDate":"2015,8,27",
+				"endDate":"2015,8,27",
+                "headline":"Gigapower landing page",
+                "text":"<p>Presenting an offer above the fold on the GigaPower Landing Page will increase CTR and conversion rate.</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"<b>Uverse</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"uverse, price block, device details, details page, smartphones", 
+ 	 	 	 	"startDate":"2015,8,28",
+				"endDate":"2015,8,28",
+                "headline":"UPDATE to DTV and Uverse $500 Bill Credit Offer",
+                "text":"<p>We will serve Direct TV and Uverse customers (identified by user attribute “ATT.globalVars.cartContents.newCoFlow” when they login via the new unified login) a special $500 worth in bill credits if they switch their wireless carrier to AT&T; all other new customers will receive messaging for the $300 switcher bill credit</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/cpo_dtv2.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"tablet, promo, cart summary, modal, thankyou", 
+ 	 	 	 	"startDate":"2015,9,1",
+				"endDate":"2015,9,1",
+                "headline":"Upgrade tablet bundle modal",
+                "text":"<p>Offering upgrade customers an opportunity to purchase the iPad mini bundle will increase offer performance and gross adds.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/ipadmini.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"marquee, home page", 
+ 	 	 	 	"startDate":"2015,9,2",
+				"endDate":"2015,9,2",
+                "headline":"Military Marquee",
+                "text":"<p>By alerting military visitors to att.com about an IRU wireless discount they may qualify for, we will increase the total amount of military IRU activations.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/military.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"mobile", 
+ 	 	 	 	"startDate":"2015,9,17",
+				"endDate":"2015,9,17",
+                "headline":"Mobile call for order help",
+                "text":"<p>Adding a phone number on mobile to provide users a way to call to order will increase conversion. </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/call.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"tablet, list page, mobile", 
+ 	 	 	 	"startDate":"2015,9,17",
+				"endDate":"2015,9,17",
+                "headline":"Default Tablet list to 2 year on mobile",
+                "text":"<p>Defaulting the mobile tablet list page to 2 year rather than Next will increase conversion.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/tablet_m.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"mobile, search", 
+ 	 	 	 	"startDate":"2015,9,17",
+				"endDate":"2015,9,17",
+                "headline":"Search on mobile",
+                "text":"<p>Moving the search box up on the m.att.com home page will increase the number of searches on m.att.com. </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/search_m.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"mobile, cart summary, promo", 
+ 	 	 	 	"startDate":"2015,9,21",
+				"endDate":"2015,9,21",
+                "headline":"Cart Summary Promo Area on MOBILE",
+                "text":"<p>Offering a tablet promo to New and AAL users on the mobile cart summary page will increase offer performance.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/promo_m.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:gray'>Desktop/</span><span style='color:green'>Mobile</span></p>"
+                }
+			},{
+                "tag":"home page, carousel, smartphones", 
+ 	 	 	 	"startDate":"2015,9,22",
+				"endDate":"2015,9,22",
+                "headline":"Homepage device carousel",
+                "text":"<p>Adding a device carousel to the homepage will increase conversion. </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/hp_c.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"home page, promo, offer", 
+ 	 	 	 	"startDate":"2015,9,24",
+				"endDate":"2015,9,24",
+                "headline":"Trending now banner",
+                "text":"<p>By putting the top selling device text link above the global nav, we will increase gross adds because all users will see it regardless of entry point or clickstream. </p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/trending.JPG",
+                    "credit":"<b>Personalization</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"shop, marquee, desktop", 
+ 	 	 	 	"startDate":"2015,9,24",
+				"endDate":"2015,9,24",
+                "headline":"Dynamic Shop Wireless Marquee",
+                "text":"<p>By creating a marquee template that calls the current top selling device and contract option, we will drive more gross adds than the existing Shop Wireless marquee rotation during the same time period.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/mar_dyn.JPG",
+                    "credit":"<b>Personalization</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			},{
+                "tag":"enjoy, shipping, cart summary", 
+ 	 	 	 	"startDate":"2015,9,24",
+				"endDate":"2015,9,24",
+                "headline":"Enjoy default selection",
+                "text":"<p>Moving Enjoy to the top of the list for shipping method on cart summary for all customers in San Francisco and New York City Area will Increase take rate for Enjoy delivery service, without effecting order volume.</p>",
+                "asset":
+                {
+                    "media":"timelinejs/images/enjoy_cs.JPG",
+                    "credit":"<b>Wireless</b>",
+                    "caption":"<p><span style='color:green'>Desktop</span><span style='color:gray'>/Mobile</span></p>"
+                }
+			}
+        ]
+    }
+}
